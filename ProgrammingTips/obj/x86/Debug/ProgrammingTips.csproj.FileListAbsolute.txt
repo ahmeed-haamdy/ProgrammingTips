@@ -1,0 +1,6 @@
+/Users/integrant/Projects/ProgrammingTips/ProgrammingTips/bin/Debug/ProgrammingTips.exe
+/Users/integrant/Projects/ProgrammingTips/ProgrammingTips/bin/Debug/ProgrammingTips.pdb
+/Users/integrant/Projects/ProgrammingTips/ProgrammingTips/obj/x86/Debug/ProgrammingTips.csprojAssemblyReference.cache
+/Users/integrant/Projects/ProgrammingTips/ProgrammingTips/obj/x86/Debug/ProgrammingTips.csproj.CoreCompileInputs.cache
+/Users/integrant/Projects/ProgrammingTips/ProgrammingTips/obj/x86/Debug/ProgrammingTips.exe
+/Users/integrant/Projects/ProgrammingTips/ProgrammingTips/obj/x86/Debug/ProgrammingTips.pdb

@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{4EEC3C01-F6E8-4D98-B2C8-33BE6DE27333}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgrammingTips/DrawFigure.cs">
+    <Files>
+      <File FileName="ProgrammingTips/Program.cs" Line="23" Column="1" />
+      <File FileName="ProgrammingTips/DrawFigure.cs" Line="33" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProgrammingTips PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/integrant/Projects/ProgrammingTips/ProgrammingTips/Program.cs" relfile="ProgrammingTips/Program.cs" line="28" column="1" />
+      <Breakpoint file="/Users/integrant/Projects/ProgrammingTips/ProgrammingTips/Program.cs" relfile="ProgrammingTips/Program.cs" line="36" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
